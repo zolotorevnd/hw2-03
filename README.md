@@ -29,7 +29,22 @@ cat /tmp/file_errors
 <img src = "img/file_errors.png" width = 100%>
 
 ### Задание 2
+
+Напишите команду, которая выводит все запущенные процессы пользователя root в файл "user_root_ps".
+
 ### Решение 2
+
+ps -U root 1>user_root_ps
+
+<img src = "img/cat_user_root_ps_1.png" width = 100%>
+
+<img src = "img/user_root_ps2.png" width = 100%>
+
+<img src = "img/user_root_ps3.png" width = 100%>
+
+<img src = "img/user_root_ps4.png" width = 100%>
+
+<img src = "img/user_root_ps5.png" width = 100%>
 
 ### Задание 3
 ### Решение 3
